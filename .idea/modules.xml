@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FirstTest.iml" filepath="$PROJECT_DIR$/FirstTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/uilibrary/uilibrary.iml" filepath="$PROJECT_DIR$/uilibrary/uilibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng_social_library/umeng_social_library.iml" filepath="$PROJECT_DIR$/umeng_social_library/umeng_social_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/umeng_soical_deml/umeng_soical_deml.iml" filepath="$PROJECT_DIR$/umeng_soical_deml/umeng_soical_deml.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpagerdemo1/viewpagerdemo1.iml" filepath="$PROJECT_DIR$/viewpagerdemo1/viewpagerdemo1.iml" />
+    </modules>
+  </component>
+</project>
